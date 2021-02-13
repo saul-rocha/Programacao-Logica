@@ -1,0 +1,1 @@
+equacao(X,Y):- Y is (X^2) + (3*X) + 5.
